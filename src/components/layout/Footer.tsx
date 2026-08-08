@@ -93,7 +93,7 @@ export default function Footer() {
                         target="_blank"
                         className="block text-green-300 hover:underline"
                     >
-                        YouTube
+                        Test YouTube
                     </a>
 
                     <a
