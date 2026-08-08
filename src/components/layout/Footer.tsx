@@ -88,7 +88,6 @@ export default function Footer() {
                         Google Maps
                     </a>
 
-
                     <a
                         href={kontak?.facebook}
                         target="_blank"
