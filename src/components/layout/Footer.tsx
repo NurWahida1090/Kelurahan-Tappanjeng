@@ -88,13 +88,6 @@ export default function Footer() {
                         Google Maps
                     </a>
 
-                    <a
-                        href={kontak?.instagram}
-                        target="_blank"
-                        className="block text-green-300 hover:underline"
-                    >
-                        YouTube
-                    </a>
 
                     <a
                         href={kontak?.facebook}
@@ -104,6 +97,13 @@ export default function Footer() {
                         Facebook
                     </a>
 
+                    <a
+                        href={kontak?.instagram}
+                        target="_blank"
+                        className="block text-green-300 hover:underline"
+                    >
+                        YouTube
+                    </a>
                 </div>
             </div>
         </footer>
